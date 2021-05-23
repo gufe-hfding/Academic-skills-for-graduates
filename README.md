@@ -24,10 +24,13 @@
 2. [研究生第一篇学术论文常犯问题总结](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651085848&idx=1&sn=25d4ca5774a929b62301ee67b9af05d8&chksm=843b5f52b34cd64408ebadb54a44680356f075b1c0c359517eee19af9c39bc9293dc2059e3a5&scene=21#wechat_redirect)
 3. [研究生新生如何撰写文献综述](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651105770&idx=1&sn=75e02bd253494123934fb7c9ce1669d5&chksm=843baaa0b34c23b6063e3ef619bdcd6851dbc316492cc8872d68ec185691d589c1d8e3e97179&scene=21#wechat_redirect)
 4. [论文的结论与摘要的区别！很多人写着写着就混乱了……](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651105433&idx=1&sn=8dc7c2e5b65a1620fbf90eafeffad608&chksm=843babd3b34c22c5e5b9cc762a416daeb90d417053981fe4d5e1e0785c7390c0062192e0c6db&scene=21#wechat_redirect)
-5. [绝对干货！论文图表基本规范大全](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651090726&idx=1&sn=9de23cde48fb53df642c7c2ee95a98b6&chksm=843b6c6cb34ce57ab87efc19dd17a8496c0b74ef9da4bef171ad5af905a7f158f1f6ca33e3c5&scene=21&token=72721518&lang=zh_CN#wechat_redirect)
-6. [重磅推荐: 最全面最标准的数学符号、公式的英语读法（突然感慨10多年的外语都读了些啥……）](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651105119&idx=1&sn=0f1b4c3d89e331a1c95df39e6b2be647&chksm=843ba415b34c2d03a1b74a46f83d6c26d5d8576c734c788cc7c2851829c74b87eca1bd7630d2&scene=21#wechat_redirect)
-7. [参考文献的学问——让你的发表之旅更顺利](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=401267086&idx=1&sn=36a34bb218e7c3d9843476473696c537&scene=21#wechat_redirect)
-8. [原创干货： 参考文献，论文写作的重灾区！](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651085485&idx=1&sn=4c439d7459eefa719153098cb61b69d3&scene=21#wechat_redirect)
+5. [摘要与引言基本要求：摘要五要素，引言四部曲](https://mp.weixin.qq.com/s/R4WCIxgDM6_xiPsY0VeX-g)
+6. [绝对干货！论文图表基本规范大全](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651090726&idx=1&sn=9de23cde48fb53df642c7c2ee95a98b6&chksm=843b6c6cb34ce57ab87efc19dd17a8496c0b74ef9da4bef171ad5af905a7f158f1f6ca33e3c5&scene=21&token=72721518&lang=zh_CN#wechat_redirect)
+7. [重磅推荐: 最全面最标准的数学符号、公式的英语读法（突然感慨10多年的外语都读了些啥……）](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651105119&idx=1&sn=0f1b4c3d89e331a1c95df39e6b2be647&chksm=843ba415b34c2d03a1b74a46f83d6c26d5d8576c734c788cc7c2851829c74b87eca1bd7630d2&scene=21#wechat_redirect)
+8. [参考文献的学问——让你的发表之旅更顺利](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=401267086&idx=1&sn=36a34bb218e7c3d9843476473696c537&scene=21#wechat_redirect)
+9. [如何为你的论文写一个深思熟虑的讨论部分](https://mp.weixin.qq.com/s/PCChBnMyO_xp686Xj1Ff8g)
+10. [原创干货： 参考文献，论文写作的重灾区！](https://mp.weixin.qq.com/s?__biz=MzA4NjI0Mjg1Mw==&mid=2651085485&idx=1&sn=4c439d7459eefa719153098cb61b69d3&scene=21#wechat_redirect)
+11. [你的学位论文完成了吗？提交前送你一份捉虫清单！](https://mp.weixin.qq.com/s/SF7LwwskG21exI3g9r9q5Q)
 
 ### 英文写作
 
